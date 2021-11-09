@@ -1,0 +1,17 @@
+{
+  "name": "climatic-change-api",
+  "version": "1.0.0",
+  "description": "This is an api who show you the different climatic changes",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Kevin Yanes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
