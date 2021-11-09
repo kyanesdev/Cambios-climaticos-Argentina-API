@@ -1,3 +1,5 @@
 #Modulos
 node_modules/
+
+#WebStorm Idea
 .idea
